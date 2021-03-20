@@ -1,0 +1,17 @@
+.masthead {
+  display: flex;
+  flex-direction: row;
+
+  height: 3rem;
+  padding: 0.6rem;
+
+  align-items: center;
+
+
+  background-color: #fafafa;
+
+  .brand {
+    flex: 1;
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "base-gatsby-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicholas Barr <code@bearlovescode.com>",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^3.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.32.8"
+  },
+  "devDependencies": {
+    "gatsby-plugin-sass": "^4.1.0"
+  }
+}

@@ -1,0 +1,18 @@
+@import '_variables';
+
+@import '_typography';
+
+html, body {
+  padding: $default-page-padding;
+  margin: $default-page-margin;
+
+  width: $default-page-width;
+  min-width: $default-page-width;
+  height: $default-page-height;
+  min-height: $default-page-height;
+}
+
+body {
+  font-family: $default-font-family;
+  font-size: $default-font-size;
+}
